@@ -1,0 +1,25 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.btn{
+    background-color: #1e4177;
+    color: white;
+
+}
+.btnForm{
+    width: 80px;
+    height: 40px;
+}
+.tituloIndexFondo{
+    background-color:#1e4177;
+    height: 150px;
+}
+.tituloIndex{
+    color: white;
+}
+.tituloContactoFondo{
+    background-color:#1e4177;
+    height: 200px;
+}
